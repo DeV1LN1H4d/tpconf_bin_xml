@@ -1,6 +1,6 @@
-# It's not my tool.🙂 
+# `It's not my tool.🙂` 
 
-# `I kept uploading so that I could use it all the time.`
+# I kept uploading so that I could use it all the time.
 
 # tpconf_bin_xml.py
 
