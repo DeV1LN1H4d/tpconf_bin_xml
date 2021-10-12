@@ -1,3 +1,7 @@
+# It's not my tool.🙂 
+
+# `I kept uploading so that I could use it all the time.`
+
 # tpconf_bin_xml.py
 
 Simple command line utility to convert TP-Link TD-W9970 and TD-W9980 (_thanks to [d3dave](https://github.com/d3dave)_) modem router backup config files from binary to XML and back:
